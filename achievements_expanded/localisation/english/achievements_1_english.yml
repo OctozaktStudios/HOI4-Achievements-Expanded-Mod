@@ -1,0 +1,34 @@
+l_english:
+  EXPANDED_ACHIEVEMENTS:0 "Octozakts Expanded Achievements Mod"
+  THANK_YOU:0 "Thank You!!!"
+  THANK_YOU_DESC:0 "Thank you so much for playing my mod! I really appreciate it!"
+
+  HACKER:0 "Hacker!!!"
+  HACKER_DESC:0 "As Germany, capitulate the UK before Jan 1, 1940."
+
+  PROFESSIONAL:0 "Professional!"
+  PROFESSIONAL_DESC:0 "As Germany, capitulate both France and Poland before Jan 1, 1938."
+
+  BATTERING_RAM:0 "Battering Ram"
+  BATTERING_RAM_DESC:0 "As Germany, break through the Maginot Line"
+
+  PARADROP_STRAT:0 "Paradrop Strat"
+  PARADROP_STRAT_DESC:0 "As Germany, capitulate France before Jan 1, 1938. I dont know if this is possible without the paradrop strat"
+
+  WHO_CARES_ABOUT_YOUR_DUMB_NEUTRALITY:0 "Who Cares About Your Dumb Neutrality"
+  WHO_CARES_ABOUT_YOUR_DUMB_NEUTRALITY_DESC:0 "As any country, capitulate Belgium"
+
+  ANSCHLUSS_EH:0 "Austria? Eh."
+  ANSCHLUSS_EH_DESC:0 "As Germany, never Anschluss Austria"
+
+  WHO_PLAYS_FRANCE_ANYWAYS:0 "Who Likes France Anyways?"
+  WHO_PLAYS_FRANCE_ANYWAYS_DESC:0 "As France, capitulate."
+
+  REVERSE_SEALION:0 "Reverse Sealion"
+  REVERSE_SEALION_DESC:0 "Playing as the United Kingdom, Capitulate Germany."
+
+  ITA_WORSE_THAN_THE_AI:0 "Worse Than The AI"
+  ITA_WORSE_THAN_THE_AI_DESC:0 "As Italy, Capitulate"
+
+  ITA_BETTER_THAN_THE_AI:0 "Better Than The AI"
+  ITA_BETTER_THAN_THE_AI_DESC:0 "As Italy, survive until 1945"

@@ -1,0 +1,7 @@
+This mod adds a lot of new achievements to the game! Unfortunately, I haven't figured out why I can't add the images or get the localisation stuff to work.
+If you guys have any suggestions on how to fix this, then please tell me in the comments!
+
+Countries with new achievements (NOTE: Some achievements can be obtained by any country, and MORE ACHIEVEMENTS WILL COME!):
+- Germany
+- France 
+- Italy

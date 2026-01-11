@@ -1,0 +1,25 @@
+spriteType = {
+    name = "GFX_achievement_professional"
+    texturefile = "gfx/interface/achievements/professional.dds"
+}
+spriteType = {
+    name = "GFX_achievement_professional_locked"
+    texturefile = "gfx/interface/achievements/professional_locked.dds"
+}
+spriteType = {
+    name = "GFX_achievement_hacker"
+    texturefile = "gfx/interface/achievements/hacker.dds"
+}
+spriteType = {
+    name = "GFX_achievement_hacker_locked"
+    texturefile = "gfx/interface/achievements/hacker_locked.dds"
+}
+
+spriteType = {
+    name = "GFX_achievement_battering_ram"
+    texturefile = "gfx/interface/achievements/battering_ram.dds"
+}
+spriteType = {
+    name = "GFX_achievement_battering_ram_locked"
+    texturefile = "gfx/interface/achievements/battering_ram_locked.dds"
+}
